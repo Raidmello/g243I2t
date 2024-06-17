@@ -1,0 +1,11 @@
+.pagina.login{
+    background-color: rgb(193, 223, 213);
+}
+:root {
+    --fundoLogin: blue;
+    --corFonteLogin: black;
+    --corbtnSistema: royalblue;
+    --corFonteBotao: white;
+    --corbtnSistemaHover: rgb(170, 186, 233);
+    --corFonteBotaohover: rgb(0, 0, 0);
+}
