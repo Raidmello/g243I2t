@@ -19,7 +19,7 @@ btnLogin.onclick = (e) =>{
     if (usuario){
     if(usuario === "raul"){
         if (senha === "123"){
-            localStorage.setItem("usario",usuario);
+            localStorage.setItem("usuario",usuario);
             window.location.helf = "/tmp/guest-sfbvdh/Área de Trabalho/g243I2t-main/logado.html";
         }
         else{

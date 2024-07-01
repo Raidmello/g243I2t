@@ -83,3 +83,18 @@
     color: aliceblue;
 
 }
+.cadastro{
+    background-color: blue;
+}
+
+.form-cadastro {
+    height: 100vh;
+    width: 70vw;
+}
+.mesma-linha {
+    display: flex;
+    margin-left: 20px;
+}
+.campo-input-grande {
+    width: 100%;
+}
